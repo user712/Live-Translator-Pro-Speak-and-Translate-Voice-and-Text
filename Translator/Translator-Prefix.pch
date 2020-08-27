@@ -1,0 +1,28 @@
+//
+//  Translator-Prefix.pch
+//  Translator
+//
+//   12/4/15.
+//  Copyright © 2015 Dev. 
+//
+
+#ifndef Translator_Prefix_pch
+#define Translator_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#define supportEmail @"support@nordicnations.net"
+#define SHOW_YOUR_SELF NSLog(@"Just activated %s",__PRETTY_FUNCTION__);
+#define I_AM_IN_THE_MAIN_APP @"indeed"
+
+#import "AppColors.h"
+#import "SubscriptionManager.h"
+
+#ifdef DEBUG
+#define isDebugging YES
+#else
+#define isDebugging NO
+#endif
+
+#endif /* Translator_Prefix_pch */

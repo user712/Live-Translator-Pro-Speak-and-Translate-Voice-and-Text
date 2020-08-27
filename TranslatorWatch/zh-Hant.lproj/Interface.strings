@@ -1,0 +1,24 @@
+
+/* Class = "WKInterfaceLabel"; text = "Try speaking louder, and make sure you chose the correct language."; ObjectID = "IUl-hg-eSf"; */
+"IUl-hg-eSf.text" = "試著大點聲說話，並確認您選擇了正確的語言。";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "Rn9-Mb-9ve"; */
+"Rn9-Mb-9ve.text" = "Label";
+
+/* Class = "WKInterfaceLabel"; text = "I'm sorry, but I was not able to understand what you where saying"; ObjectID = "U77-yS-dOt"; */
+"U77-yS-dOt.text" = "抱歉，我不能理解您說的內容";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "XYR-xU-fTj"; */
+"XYR-xU-fTj.text" = "Label";
+
+/* Class = "WKInterfaceMenuItem"; title = "Change Language"; ObjectID = "n9M-Wh-p6C"; */
+"n9M-Wh-p6C.title" = "更改語言";
+
+/* Class = "WKInterfaceMenuItem"; title = "Change Language"; ObjectID = "nQh-4y-bSK"; */
+"nQh-4y-bSK.title" = "更改語言";
+
+/* Class = "WKInterfaceButton"; title = "Select"; ObjectID = "qGU-nt-1sr"; */
+"qGU-nt-1sr.title" = "選擇";
+
+/* Class = "WKInterfaceLabel"; text = "Press firmly on the display to change languages."; ObjectID = "VGr-j6-qXW"; */
+"VGr-j6-qXW.text" = "點擊顯示按鈕來切換語言。";

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="15D21" minimumToolsVersion="Xcode 7.0">
+    <entity name="Translations" syncable="YES">
+        <attribute name="destinationLang" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="faved" optional="YES" attributeType="Integer 32" syncable="YES"/>
+        <attribute name="initialText" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sourceLang" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="stamp" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="translateText" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Translations" positionX="-63" positionY="-18" width="128" height="133"/>
+    </elements>
+</model>

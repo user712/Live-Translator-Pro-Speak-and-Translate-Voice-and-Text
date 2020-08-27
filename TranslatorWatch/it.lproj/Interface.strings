@@ -1,0 +1,24 @@
+
+/* Class = "WKInterfaceLabel"; text = "Try speaking louder, and make sure you chose the correct language."; ObjectID = "IUl-hg-eSf"; */
+"IUl-hg-eSf.text" = "Prova a parlare più forte e assicurati di aver scelto la lingua corretta.";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "Rn9-Mb-9ve"; */
+"Rn9-Mb-9ve.text" = "Label";
+
+/* Class = "WKInterfaceLabel"; text = "I'm sorry, but I was not able to understand what you where saying"; ObjectID = "U77-yS-dOt"; */
+"U77-yS-dOt.text" = "Spiacente, ma non sono riuscito a capire cosa stessi dicendo";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "XYR-xU-fTj"; */
+"XYR-xU-fTj.text" = "Label";
+
+/* Class = "WKInterfaceMenuItem"; title = "Change Language"; ObjectID = "n9M-Wh-p6C"; */
+"n9M-Wh-p6C.title" = "Cambia lingua";
+
+/* Class = "WKInterfaceMenuItem"; title = "Change Language"; ObjectID = "nQh-4y-bSK"; */
+"nQh-4y-bSK.title" = "Cambia lingua";
+
+/* Class = "WKInterfaceButton"; title = "Select"; ObjectID = "qGU-nt-1sr"; */
+"qGU-nt-1sr.title" = "Seleziona";
+
+/* Class = "WKInterfaceLabel"; text = "Press firmly on the display to change languages."; ObjectID = "VGr-j6-qXW"; */
+"VGr-j6-qXW.text" = "Premere con forza sul display per cambiare lingua.";

@@ -1,0 +1,27 @@
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "CbT-Sn-jSj"; */
+"CbT-Sn-jSj.text" = "Label";
+
+/* Class = "WKInterfaceLabel"; text = "Versuchen Sie, lauter zu sprechen, und gehen Sieher, dass Sie die korrekte Sprache ausgewählt haben."; ObjectID = "IUl-hg-eSf"; */
+"IUl-hg-eSf.text" = "Versuchen Sie, lauter zu sprechen, und gehen Sieher, dass Sie die korrekte Sprache ausgewählt haben.";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "Rn9-Mb-9ve"; */
+"Rn9-Mb-9ve.text" = "Label";
+
+/* Class = "WKInterfaceLabel"; text = "Es tut mir leid, aber ich konnte nicht verstehen, was Sie gesagt haben"; ObjectID = "U77-yS-dOt"; */
+"U77-yS-dOt.text" = "Es tut mir leid, aber ich konnte nicht verstehen, was Sie gesagt haben";
+
+/* Class = "WKInterfaceLabel"; text = "Press firmly on the display to change languages."; ObjectID = "VGr-j6-qXW"; */
+"VGr-j6-qXW.text" = "Fest auf das Display drücken, um Sprachen zu ändern.";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "XYR-xU-fTj"; */
+"XYR-xU-fTj.text" = "Label";
+
+/* Class = "WKInterfaceMenuItem"; title = "Sprache wechseln"; ObjectID = "n9M-Wh-p6C"; */
+"n9M-Wh-p6C.title" = "Sprache wechseln";
+
+/* Class = "WKInterfaceMenuItem"; title = "Sprache wechseln"; ObjectID = "nQh-4y-bSK"; */
+"nQh-4y-bSK.title" = "Sprache wechseln";
+
+/* Class = "WKInterfaceButton"; title = "Auswählen"; ObjectID = "qGU-nt-1sr"; */
+"qGU-nt-1sr.title" = "Auswählen";

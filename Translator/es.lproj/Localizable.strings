@@ -1,0 +1,267 @@
+/* 
+  Localizable.strings
+  Translator
+
+   2/16/16.
+  Copyright © 2016 Dev. 
+*/
+
+"About" = "Sobre nosotros";
+
+"nothingToSeeHere" = "Nada que mostrar";
+
+"watchAppGlance" = "Tu traducción reciente se mostrará aquí.";
+
+// HomeScreen
+
+"tutorialTip1" = "Haz click para seleccionar la lengua";
+"tutorialTip2" = "El área grande es para el texto, haz click en ella para empezar a escribir";
+"tutorialTip3" = "Haz click sobre el micrófono para hablar en vez de escribir";
+"tutorialTip4" = "Esta parte funciona igual que la parte superior";
+"tutorialTip5" = "Este botón borrará todo lo que aparece en la pantalla";
+"tutorialTip6" = "Este botón añadirá la traducción a la pantalla de Favoritos";
+"tutorialTip7" = "Aprieta este botón para escuchar/parar la reproducción del texto traducido.";
+"hiddenMessage" = "Habla ahora";
+
+"settingsTitle" = "Ajustes";
+
+"tableTitlesItem1" = "Fuente";
+"tableTitlesItem2" = "Sexo de la voz";
+"tableTitlesItem3" = "Avanzado";
+"tableTitlesItem4" = "Más";
+
+"inputSourcesItem1" = "Fuente de voz";
+"inputSourcesItem2" = "Fuente de texto";
+
+"voiceGenderItem1" = "Masculino";
+"voiceGenderItem2" = "Femenino";
+
+"advancedOptionsItem1" = "Filtro de lenguaje";
+"advancedOptionsItem2" = "iCloud sincronización";
+"advancedOptionsItem3" = "Auto hablar";
+
+"moreOptionsItem1" = "Asistencia";
+"moreOptionsItem2" = "Valorar aplicación";
+"moreOptionsItem3" = "Compartir aplicación";
+"moreOptionsItem4" = "Ayuda";
+
+"favoriteTranslationTitle" = "Traducciones favoritas";
+
+"historyTitle" = "Historial";
+
+"btnON" = "ON";
+"btnOFF" = "OFF";
+
+"navBarSettings" = "Ajustes";
+"navBarHome" = "Home";
+"navBarFavorite" = "Favoritos";
+"navBarHistory" = "Historial";
+
+"clipboardButton" = "Traducir desde portapapeles";
+
+"noConnectioinAlert" = "Por favor, comprueba tu conexión a internet.";
+"noTTS" = "Disculpa, la función Texto-a-Conversación no está disponible para esta lengua";
+"noSpeachInput" = "Disculpa, la función de voz no está disponible para esta lengua. Estamos trabajando en ello.";
+"unfavAll" = "¿Quieres, de verdad, borrar todas tus traducciones favoritas?";
+"deleteAll" = "¿De verdad quieres borrar toda la información?";
+"soundOFF" = "Volumen apagado. Por favor, sube el volumen si quieres escuchar la traducción.";
+
+"shareAppDescription" = "Echa un vistazo a mi nueva aplicación de traducción con traducción instantánea de voz y texto";
+
+"confirmAlertButton" = "VALE";
+"alertYES" = "SÍ";
+"alertNO" = "NO";
+
+
+"windowName" = "Error";
+"windowName2" = "Alerta";
+"translateToAutodetect" = "Por favor, selecciona la lengua a traducir primero.";
+
+"Device model:" = "Modelo del dispositivo";
+"System version: " = "Versión del sistema:";
+"App version:" = "Versión de la aplicación:";
+
+
+"langSelectPlaceholder" = "Buscar...";
+
+"Listen" = "Escucha";
+"Copy" = "Copia";
+"Share" = "Compartir";
+
+"AutoDetect" = "Detección Automática";
+
+////Available languages for full speech to speech translations:
+//
+//"Arabic (Egypt)" = "Árabe (Egipto)";
+//"Arabic (Saudi Arabia)" = "Árabe (Arabia Saudí)";
+//"Arabic (International)" = "Árabe (Internacional)";
+//"Bahasa (Indonesia)" = "Bahasa (Indonesia)";
+//"Cantonese (Simplified)" = "Cantonés (Simplificado)";
+//"Catalan" = "Catalán";
+//"Czech" = "Checo";
+//"Danish" = "Danés";
+//"Dutch" = "Holandés";
+//"English (Australia)" = "Inglés (Australia)";
+//"English (GB)" = "Inglés (GB)";
+//"English (US)" = "Inglés (EE.UU.)";
+//"English (India)" = "Inglés (India)";
+//"Finnish" = "Finlandés";
+//"French (Canada)" = "Francés (Canadá)";
+//"French (France)" = "Francés (Francia)";
+//"German" = "Alemán";
+//"Greek" = "Griego";
+//"Hebrew" = "Hebreo";
+//"Hindi" = "Hindi";
+//"Hungarian" = "Húngaro";
+//"Italian" = "Italiano";
+//"Japanese" = "Japonés";
+//"Korean" = "Coreano";
+"Chinese Simplified" = "Chino Simplificado";
+"Chinese Traditional" = "Chino Tradicional";
+//"Norwegian" = "Noruego";
+//"Polish" = "Polaco";
+//"Portuguese (Brazil)" = "Portugués (Brasil)";
+//"Portuguese (Portugal)" = "Portugués (Portugal)";
+//"Romanian" = "Rumano";
+//"Russian" = "Ruso";
+//"Slovak" = "Eslovaco";
+//"Spanish (Spain)" = "Español (España)";
+//"Spanish (LatAm)" = "Español (LatAm)";
+//"Swedish" = "Sueco";
+//"Thai" = "Tailandés";
+//"Turkish" = "Turco";
+
+// Available languages for text to text translations:
+
+"Afrikaans" = "Afrikaans";
+"Albanian" = "Albanés";
+"Amharic" = "Amárico";
+"Arabic" = "Árabe";
+"Armenian" = "Armenio";
+"Azerbaijani" = "Azerí";
+"Basque" = "Vasco";
+"Belarusian" = "Bielorruso";
+"Bengali" = "Bengalí";
+"Bosnian" = "Bosnio";
+"Bulgarian" = "Búlgaro";
+"Catalan" = "Catalán";
+"Cebuano" = "Cebuano";
+"Chichewa" = "Chichewa";
+"Chinese" = "El Chino";
+"Corsican" = "El Corso";
+"Croatian" = "Croata";
+"Czech" = "Checo";
+"Danish" = "Danés";
+"Dutch" = "Holandés";
+"English" = "Inglés";
+"Esperanto" = "Esperanto";
+"Estonian" = "Estonio";
+"Filipino" = "Filipino";
+"Finnish" = "Finlandés";
+"French" = "Francés";
+"Frisian" = "Frisio";
+"Galician" = "Gallego";
+"Georgian" = "Georgiano";
+"German" = "Alemán";
+"Greek" = "Griego";
+"Gujarati" = "Gujarati";
+"Haitian Creole" = "Creole";
+"Hausa" = "Hausa";
+"Hawaiian" = "Hawaiano";
+"Hebrew" = "Hebreo";
+"Hindi" = "Hindi";
+"Hmong" = "Hmong";
+"Hungarian" = "Húngaro";
+"Icelandic" = "Islandés";
+"Igbo" = "Igbo";
+"Indonesian" = "Indonesia";
+"Irish" = "Irlanda";
+"Italian" = "Italia";
+"Japanese" = "Japonés";
+"Javanese" = "Java";
+"Kannada" = "Kannada";
+"Kazakh" = "Kazajo";
+"Khmer" = "Khmer";
+"Korean" = "Coreano";
+"Kurdish (Kurmanji)" = "Curdo (Kurmanji)";
+"Kyrgyz" = "Kirguijistaní";
+"Lao" = "Laos";
+"Latin" = "Latín";
+"Latvian" = "Letón";
+"Lithuanian" = "Lituano";
+"Luxembourgish" = "Luxemburgués";
+"Macedonian" = "Macedonio";
+"Malagasy" = "Mogadiscio";
+"Malay" = "Malasio";
+"Malayalam" = "Malayalam";
+"Maltese" = "Maltés";
+"Maori" = "Maorí";
+"Marathi" = "Marathi";
+"Mongolian" = "Mongolés";
+"Myanmar (Burmese)" = "Myanmar (de Birmania)";
+"Nepali" = "Nepal";
+"Norwegian" = "Noruega";
+"Pashto" = "Pashto";
+"Persian" = "Persa";
+"Polish" = "Polaco";
+"Portuguese" = "Portugués";
+"Punjabi" = "Punjabi";
+"Romanian" = "Rumano";
+"Russian" = "Ruso";
+"Samoan" = "Samoano";
+"Scots Gaelic" = "El Gaélico Escocés";
+"Serbian" = "Serbio";
+"Sesotho" = "Sesotho";
+"Shona" = "Shona";
+"Sindhi" = "Sindhi";
+"Sinhala" = "Cingalés";
+"Slovak" = "Polaca";
+"Slovenian" = "Esloveno";
+"Somali" = "Somalí";
+"Spanish" = "Español";
+"Sundanese" = "Sudanés";
+"Swahili" = "Swahili";
+"Swedish" = "Sueco";
+"Tajik" = "Tayiko";
+"Tamil" = "Tamil";
+"Telugu" = "Telugu";
+"Thai" = "Tailandés";
+"Turkish" = "Turco";
+"Ukrainian" = "Ucraniano";
+"Urdu" = "Urdu";
+"Uzbek" = "Uzbeko";
+"Vietnamese" = "Vietnamita";
+"Welsh" = "El Galés";
+"Xhosa" = "Xhosa";
+"Yiddish" = "Yiddish";
+"Yoruba" = "Yoruba";
+"Zulu" = "Zulu";
+
+"cannotSendEmailMessageKey" = "No puede enviar emails. Comprueba tu cuenta de email en Configuración.";
+
+
+//Subscription:
+"Subscription" = "Subscription";
+"subscriptionInfoKey" = "We currently offer auto-renewing subscription option: &&%@ of free trial followed by %@ per %@++. By subscribing, you get unlimited translation functional for all available languages. \n\nYour subscription will automatically renew at the end of each term and your creditcard will be charged through your iTunes account. You can turn off auto-renew at any time from your account settings but refunds will not be provided for any unused portion of the term. Note that, if you wish to avoid auto-renewal, you must turn it off at least 24 hours prior to the end of the current period. That's how it works! \n\nWe take the satisfaction and security of our customers very seriously. Read our terms of service at %@ and our privacy policy at %@ \n\nTo manage your subscriptions see this link for a step by step guide: \nhttp://support.apple.com/kb/ht4098";
+"subscriptionShortInfoKey" = "Free trial: %@. No commitment: cancel anytime with no charge. Free trial is followed by %@ per %@. Renewal: subscription automatically renews unless autorenew is turned off at least 24 hours before the end of the current period. Payment will be charged to iTunes account within 24 hours prior to the end of the trial period. The account will be charged for renewal within 24 hours prior to the end of the current period. No cancellation of the current subscription is allowed during the active subscription period.";
+"privacyPolicyKey" = "Privacy Policy";
+"termsOfServiceKey" = "Terms of Service";
+"Links" = "Links";
+"exploreKey" = "Explore";
+"anyLanguageKey" = "Any Language";
+"communicateKey" = "Communicate";
+"expressYourselfKey" = "Express Yourself";
+"chooseKey" = "Choose";
+"andTranslateKey" = "And Translate";
+"startKey" = "Start";
+"weekKey" = "week";
+"weeksKey" = "weeks";
+"monthKey" = "month";
+"monthsKey" = "months";
+"yearKey" = "year";
+"dayKey" = "day";
+"daysKey" = "days";
+"freeKey" = "free";
+"restorePurchasesKey" = "Restore Purchases";
+"subscriptionHasExpiredKey" = "Subscription has expired";
+"noPreviousPurchasesKey" = "Sorry we didn’t find your previous purchases";

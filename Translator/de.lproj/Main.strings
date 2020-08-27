@@ -1,0 +1,78 @@
+
+/* Class = "UIViewController"; title = "LanguageSelectWhite"; ObjectID = "3aF-9C-LCl"; */
+"3aF-9C-LCl.title" = "LanguageSelectWhite";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Bmf-Tx-2dS"; */
+"Bmf-Tx-2dS.text" = "Label";
+
+/* Class = "UILabel"; text = "All languages"; ObjectID = "Bvo-Hx-luT"; */
+"Bvo-Hx-luT.text" = "Alle Sprachen";
+
+/* Class = "UILabel"; text = "All languages"; ObjectID = "fRQ-gt-fep"; */
+"fRQ-gt-fep.text" = "Alle Sprachen";
+
+/* Class = "UIViewController"; title = "LanguageSelectBlue"; ObjectID = "I69-AV-azQ"; */
+"I69-AV-azQ.title" = "LanguageSelectBlue";
+
+/* Class = "UILabel"; text = "Recently used"; ObjectID = "Jji-d0-R2i"; */
+"Jji-d0-R2i.text" = "Vor kurzem benutzt";
+
+/* Class = "UILabel"; text = "Recently used"; ObjectID = "vEH-HM-m3w"; */
+"vEH-HM-m3w.text" = "Vor kurzem benutzt";
+
+/* Class = "UITextField"; placeholder = "Search..."; ObjectID = "KTH-KU-fPA"; */
+"KTH-KU-fPA.placeholder" = "Search...";
+
+/* Class = "UILabel"; text = "Translation Language"; ObjectID = "NTY-Un-OxH"; */
+"NTY-Un-OxH.text" = "Übersetzungssprache";
+
+/* Class = "UILabel"; text = "Translation language"; ObjectID = "wbq-nA-0A5"; */
+"wbq-nA-0A5.text" = "Übersetzungssprache";
+
+/* Class = "UITextField"; placeholder = "Search..."; ObjectID = "RBg-r7-LZl"; */
+"RBg-r7-LZl.placeholder" = "Search...";
+
+/* Class = "UILabel"; text = "Speak"; ObjectID = "SFk-pl-QUh"; */
+"SFk-pl-QUh.text" = "Sprechen";
+
+/* Class = "UILabel"; text = "Speak"; ObjectID = "hBl-Dp-W2j"; */
+"hBl-Dp-W2j.text" = "Sprechen";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U4l-Ly-zOn"; */
+"U4l-Ly-zOn.text" = "Label";
+
+/* Class = "UILabel"; text = "History"; ObjectID = "U6A-wd-yas"; */
+"U6A-wd-yas.text" = "History";
+
+/* Class = "UITabBarItem"; title = "asd"; ObjectID = "U7E-mW-PAh"; */
+"U7E-mW-PAh.title" = "asd";
+
+/* Class = "UITabBarItem"; title = "tempWhiteSelect"; ObjectID = "ZxQ-3z-DpN"; */
+"ZxQ-3z-DpN.title" = "tempWhiteSelect";
+
+/* Class = "UIViewController"; title = "settings"; ObjectID = "cJd-OD-0ep"; */
+"cJd-OD-0ep.title" = "settings";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "hBQ-rH-kim"; */
+"hBQ-rH-kim.normalTitle" = " ";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "kpD-IR-QWK"; */
+"kpD-IR-QWK.title" = "History";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "nei-ru-rcC"; */
+"nei-ru-rcC.text" = "Settings";
+
+/* Class = "UITabBarItem"; title = "Favorite"; ObjectID = "obe-MP-DIJ"; */
+"obe-MP-DIJ.title" = "Favorite";
+
+/* Class = "UILabel"; text = "Favorite Translations"; ObjectID = "sK9-P9-Vud"; */
+"sK9-P9-Vud.text" = "Favorite Translations";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "vRu-fm-wTy"; */
+"vRu-fm-wTy.normalTitle" = " ";
+
+/* Class = "UITabBarItem"; title = "tempBlueSelect"; ObjectID = "wYB-Kx-bDi"; */
+"wYB-Kx-bDi.title" = "tempBlueSelect";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "xPd-cT-fu1"; */
+"xPd-cT-fu1.title" = "Home";

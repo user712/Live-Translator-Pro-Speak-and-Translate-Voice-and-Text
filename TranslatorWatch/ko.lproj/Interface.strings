@@ -1,0 +1,24 @@
+
+/* Class = "WKInterfaceLabel"; text = "Try speaking louder, and make sure you chose the correct language."; ObjectID = "IUl-hg-eSf"; */
+"IUl-hg-eSf.text" = "큰 소리로 다시 시도해보세요 그리고 정확한 언어를 선택했는지 확인하세요.";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "Rn9-Mb-9ve"; */
+"Rn9-Mb-9ve.text" = "Label";
+
+/* Class = "WKInterfaceLabel"; text = "I'm sorry, but I was not able to understand what you where saying"; ObjectID = "U77-yS-dOt"; */
+"U77-yS-dOt.text" = "죄송합니다만 당신이 말하는 것을 이해할 수 없습니다.";
+
+/* Class = "WKInterfaceLabel"; text = "Label"; ObjectID = "XYR-xU-fTj"; */
+"XYR-xU-fTj.text" = "Label";
+
+/* Class = "WKInterfaceMenuItem"; title = "Change Language"; ObjectID = "n9M-Wh-p6C"; */
+"n9M-Wh-p6C.title" = "언어 변경";
+
+/* Class = "WKInterfaceMenuItem"; title = "Change Language"; ObjectID = "nQh-4y-bSK"; */
+"nQh-4y-bSK.title" = "언어 변경";
+
+/* Class = "WKInterfaceButton"; title = "Select"; ObjectID = "qGU-nt-1sr"; */
+"qGU-nt-1sr.title" = "선택";
+
+/* Class = "WKInterfaceLabel"; text = "Press firmly on the display to change languages."; ObjectID = "VGr-j6-qXW"; */
+"VGr-j6-qXW.text" = "언어를 변경하려면 화면을 누르세요.";
